@@ -28,3 +28,4 @@ ONSquareTime(4)
 ONSquareTime(3)
 print("\nWith every 'n' the time taken equals n^2")
 print ("0(n^2)")
+#Here ma'am
